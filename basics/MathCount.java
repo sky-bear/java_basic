@@ -1,0 +1,6 @@
+public class MathCount {
+  public static void main(String[] args) {
+    // System.out.println("Êý¾Ý¼ÆËã");
+    System.out.println(2+3);
+  }
+}
