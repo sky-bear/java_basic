@@ -1,6 +1,7 @@
 public class DataType {
   public static void main(String[] args) {
     byte a =1;
+    asdfasdf
     System.out.println(a);
   }
 
