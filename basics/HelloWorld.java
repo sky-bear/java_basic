@@ -3,11 +3,11 @@ public class HelloWorld {
      * ???????????? Hello World
      */
     public static void main(String[] args) {
-        /* Àà -- class
-        * HelloWorld ÊÇÀàÃû
-        * public class ¸æËßjavaÀàÃûÒªÓë´úÂëÎÄ¼şÃûÒ»ÖÂ
-        * ´óÀ¨ºÅÊÇÀàµÄÄÚÈİ
-        * main ·½·¨ÊÇ³ÌĞòµÄÈë¿Ú
+        /* ç±» -- class
+        * HelloWorld æ˜¯ç±»å
+        * public class å‘Šè¯‰javaç±»åè¦ä¸ä»£ç æ–‡ä»¶åä¸€è‡´
+        * å¤§æ‹¬å·æ˜¯ç±»çš„å†…å®¹
+        * main æ–¹æ³•æ˜¯ç¨‹åºçš„å…¥å£
         */
         System.out.println("Hello World 123"); // ??? Hello World
     }

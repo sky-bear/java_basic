@@ -20,12 +20,6 @@ public class DataOpertional {
      System.out.println(a1 | a2);
 
 
-     int count1 = 0XF8;
-     int count2 = 0XF4;
-     int count3 = 0XFF;
-     System.out.println(count2 & count1);
-     System.out.println(count2 | count1);
-     System.out.println(~count3);
   }
 }
 //  取模运算符
@@ -42,11 +36,5 @@ public class DataOpertional {
 // ！
 // * / %
 // +-
-
-// 按位运算符
-// 按位并（AND）: &
-// 按位或（OR）:|
-// 按位异或（XOR）：^
-// 按位取反：~
 
 
